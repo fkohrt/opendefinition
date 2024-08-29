@@ -29,7 +29,7 @@ Das **Werk** *muss* **gemeinfrei** oder unter einer offenen **Lizenz** verfügba
 
 ### 1.2 Zugang
 
-Das **Werk** *soll* als Ganzes und zu nicht mehr als angemessenen, einmaligen Reproduktionskosten verfügbar sein, vorzugsweise als kostenloser Download über das Internet. Jegliche weitere Informationen, die zur Einhaltung von Lizenzbestimmungen benötigt werden (etwa die Namen der Mitwirkenden, welche für die Einhaltung von Namensnennungs-Anforderungen benötigt werden), *müssen* das Werk ebenfalls begleiten.
+Das **Werk** *muss* als Ganzes und zu nicht mehr als angemessenen, einmaligen Reproduktionskosten verfügbar sein, vorzugsweise als kostenloser Download über das Internet. Jegliche weitere Informationen, die zur Einhaltung von Lizenzbestimmungen benötigt werden (etwa die Namen der Mitwirkenden, welche für die Einhaltung von Namensnennungs-Anforderungen benötigt werden), *müssen* das Werk ebenfalls begleiten.
 
 ### 1.3 Maschinenlesbarkeit
 
